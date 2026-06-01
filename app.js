@@ -22,7 +22,7 @@ const NFT_ABI = [
 ];
 const MINT_FEE = ethers.parseEther("0.0035"); // 0.0035 RITUAL
 
-let CONTRACT_ADDRESS = '0x3206210c4261DB80BA392F69ae88300839f02c3B';
+let CONTRACT_ADDRESS = '0x747189920F6c44c479EB3d762336612556cD1F5c';
 
 // ─── AURA DATA ───────────────────────────────────────────────────
 const AURAS = [
